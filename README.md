@@ -1,5 +1,5 @@
 # color_Changer
-# Title: Color Changer: Change Background Color with HTML, CSS, and JavaScript
+## Title: Color Changer: Change Background Color with HTML, CSS, and JavaScript
 
 ## Description:
 
